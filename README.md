@@ -1,2 +1,10 @@
-# Testicp
-repository per test icp bpsh milano
+
+
+
+
+# Practical IBM Cloud Private Workshop
+
+
+![ICP Logo](./images/logoicp.png)
+
+
